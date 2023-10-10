@@ -11,4 +11,4 @@ Pour chaque source :
 ===> Sous forme de tableau !
 ===> 1 fichier .markdown par sujet
 
-![Logo de Django]([http://url/to/img.png](https://static.djangoproject.com/img/logos/django-logo-positive.png))
+![Logo de Django](https://static.djangoproject.com/img/logos/django-logo-positive.png)
