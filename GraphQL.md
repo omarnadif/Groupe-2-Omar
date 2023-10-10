@@ -8,5 +8,6 @@ GraphQL est un langage de requêtes et un environnement d'exécution, créé par
 
 |Nom|type|Langue|Lien|Description|Tags|Note|
 |---|---|---|---|---|---|---|
-|GraphQL|Site officiel|Anglais|[graphql.org](https://graphql.org/blog/)|Blog officiel de GraphQL, ou l'on peut trouver les news des nouvel versions |News|3|
+|GraphQL|Site officiel|Anglais|[graphql.org](https://graphql.org/blog/)|Blog officiel de GraphQL, ou l'on peut trouver les news des nouvel versions |News|3 :star:|
+|Reddit|reddit|Anglais|[r/graphql](https://www.reddit.com/r/graphql/)|C'est un subreddit centré sur le sujet de GraphQL|News, Q&A|4 :star:|
 ||||||||
