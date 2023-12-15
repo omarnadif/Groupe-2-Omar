@@ -12,3 +12,4 @@ Plusieurs sites grand public sont désormais fondés sur Django, dont Pinterest 
 | **Créé par**  |  Un journal local de la ville de Lawrence aux États-Unis |
 | **Langue**  |  Python |
 | **Description**  | Django est un framework web open source en Python.  |
+=======
