@@ -1,4 +1,4 @@
-
+z
 Symfony : Un Cadre PHP Robuste pour le Développement Web Moderne
 Introduction
 Symfony est un framework PHP open source, hautement modulaire et évolutif, conçu pour simplifier et accélérer le processus de développement web. Créé par SensioLabs, Symfony offre une structure solide pour la construction d'applications web robustes, flexibles et maintenables.
