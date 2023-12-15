@@ -7,5 +7,4 @@ Mapbox est une entreprise américaine spécialisée dans la cartographie en lign
 | **Nom**  | MapBox  |
 |---|---|
 | **Créé par**  |  Eric Gundersen |
-| **Langue**  |  Python |
 | **Description**  | Cartographie en ligne.  |
