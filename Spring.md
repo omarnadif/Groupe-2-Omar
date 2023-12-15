@@ -1,5 +1,5 @@
 # Spring
-![Alt text](https://spring.io/img/spring.svg)
+<img src="https://spring.io/img/spring.svg" alt="Spring Logo" width="100" height="100">
 
 ## Description
 Spring est un framework Java open-source favorisant l'inversion de contrôle, l'injection de dépendances, et offrant une gamme de modules pour simplifier le développement d'applications d'entreprise.
