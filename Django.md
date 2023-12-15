@@ -12,3 +12,5 @@ Pour chaque source :
 ===> 1 fichier .markdown par sujet
 
 ![Logo de Django](https://static.djangoproject.com/img/logos/django-logo-positive.png)
+
+Django est un framework web open source en Python.
