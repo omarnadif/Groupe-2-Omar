@@ -11,3 +11,5 @@ _**Source :** [lien wikipédia](https://en.wikipedia.org/wiki/GitHub)
 Nom  | Type  | Langue | Lien | Description | Tags | Note
 ------|-------|--------|------|-------------|------|------
 Site GitHub | Site | Français | [lien de l'article](https://fr.github.com/) | Le site de GitHub permet de découvrir les principales fonctionalitées de la plateforme |#GIT #Logiciel | 5/5
+Site de Tom Preston|Site|Anglais|[lien de l'article](https://tom.preston-werner.com/)|Il propose divers articles mais peu concernant directement Github|#GIT #Fondateur #Blog|3/5|
+Page de Github | Twitter | Anglais | [lien de l'article](https://twitter.com/github) | Des publication concernant les nouveautés et problémes concernant Github | #GIT #Twitter |5/5|
