@@ -10,5 +10,8 @@ React a été publié pour la première fois en 2013 et a gagné une immense pop
 
 ## Sources
 
-| Nom | Type | Langue | Lien | Description | Tags | Pertinence |
-| --- | ---- | ------ | ---- | ----------- | ---- | ---------- |
+| Nom                         | Type                   | Langue      | Lien                                                               | Description                                    | Tags                                 | Pertinence |
+| --------------------------- | ---------------------- | ----------- | ------------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------ | ---------- |
+| Melvynx • Apprendre à coder | Youtube                | Français    | [Melvynx • Apprendre à coder](https://www.youtube.com/@melvynxdev) | Tutoriels vidéo React                          | React, Tutos, Frontend               | 4/5        |
+| React Blog officiel         | Site web               | Anglais     | [React Blog](https://reactjs.org/blog/)                            | Articles officiels et mises à jour React       | React, JavaScript, Frontend          | 5/5        |
+| Dev.to - React              | Site web communautaire | Multilingue | [Dev.to React](https://dev.to/t/react)                             | Articles de la communauté et discussions React | React, JavaScript, Développement web | 4.5/5      |
