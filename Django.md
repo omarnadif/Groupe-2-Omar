@@ -1,16 +1,3 @@
-Faire de la veille tech => sources !
-Pour chaque source : 
-- 
-- **Type** (d'où ça vient ? Facebook, Twitter, Youtube, Siteweb, RSS, etc...)
-- **Langue** principalement utilisée
-- **Lien**
-- **Description** courte
-- **Tags** : les différents sujets évoqués
-- **Note** / 5 => pertinence par rapport au sujet de base "% de posts qui concernent le sujet"
-
-===> Sous forme de tableau !
-===> 1 fichier .markdown par sujet
-
 🚨![Logo de Django](https://static.djangoproject.com/img/logos/django-logo-positive.png)🚨
 
 Django est un framework web open source en Python. Il a pour but de rendre le développement d'applications web simple et basé sur la réutilisation de code. Développé en 2003 pour le journal local de Lawrence (État du Kansas, aux États-Unis), Django a été publié sous licence BSD à partir de juillet 2005.
@@ -22,8 +9,6 @@ Plusieurs sites grand public sont désormais fondés sur Django, dont Pinterest 
 
 | **Nom**  | Django  |
 |---|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| **Type**  |  journal local de la ville de Lawrence aux États-Unis |
+| **Langue**  |  Python |
+| **Description**  | Django est un framework web open source en Python.  |
