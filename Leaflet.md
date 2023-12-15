@@ -1,6 +1,6 @@
-![LeafletLogo](./leaflet.png)
-
 # Leaflet
+
+![LeafletLogo](./leaflet.png)
 
 ## Description
 
