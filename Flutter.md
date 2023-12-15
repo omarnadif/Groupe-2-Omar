@@ -9,3 +9,6 @@ Flutter est un kit de développement logiciel d'interface utilisateur open-sourc
 
 | **nom** | **Type** | **Langue** | **Lien** | **Description** | **Tags** | **Note** | 
 |---------|----------|------------|----------|-----------------|----------|----------|
+| |language |EN |https://thenewstack.io/dev-news-rust-on-android-flutters-release-and-rust-v1-74/ |Flutter fix un problème maintenant stable | #flutter #release|2/5  |
+| | | | | | | | |
+| | | | | | | | |
