@@ -1,1 +1,7 @@
+| Nom                      | Type            | Langue | Lien                                                      | Description                                                      | Tags                          | Note/5 |
+| ------------------------ | --------------- | ------ | --------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------- | ------ |
+| Seaborn GitHub           | GitHub          | Anglais| [Seaborn GitHub](https://github.com/mwaskom/seaborn)      | Dépôt GitHub officiel de Seaborn.                                | Seaborn, Python, Visualisation de données | 5      |
+| Documentation Seaborn    | Documentation   | Anglais| [Documentation Seaborn](https://seaborn.pydata.org/)      | Documentation officielle de Seaborn, incluant guides et exemples.| Seaborn, Python, Visualisation de données | 5      |
+| Seaborn Twitter          | Twitter         | Anglais| [Seaborn Twitter](https://twitter.com/seabornpy)          | Compte Twitter officiel de Seaborn pour des mises à jour.        | Seaborn, Python, Visualisation de données | 5      |
+| Blog Seaborn             | Blog            | Anglais| [Tutoriel Seaborn DataCamp](https://www.datacamp.com/community/tutorials/seaborn-python-tutorial) | Tutoriels et articles sur Seaborn disponibles sur DataCamp.      | Seaborn, Python, Visualisation de données, Tutoriel | 5      |
 
