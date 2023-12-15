@@ -1,0 +1,11 @@
+<img width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
+
+# Veille sur le langage SQL
+SQL (sigle pour Structured Query Langage, « langage de requêtes structurées ») est un language informatique normalisé servant à exploiter des bases de données relationnelles. La partie langage de manipulation des données de SQL permet de rechercher, d'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.
+
+|Type      |Adresse Internet   |Infos trouvées   |
+|----------|-------------------|-----------------|
+|Wikipedia |https://fr.wikipedia.org/wiki/Structured_Query_Language | Site généraliste sur le langage SQL |
+|Site      |https://sql.sh/    | Site d'apprentissage des bases du langage SQL |
+|Site      |https://datascientest.com/sql-tout-savoir | Site d'informations sur l'histoire du langage et son utilisation |
+|Linkedin  |https://www.linkedin.com/posts/vincent-delabre-07b44435_les-nouveaut%C3%A9s-de-sql-server-2022-activity-6952974169940623360-6HQO/?originalSubdomain=fr  | Post Linkedin sur les nouveautés de SQL Server 2022 |

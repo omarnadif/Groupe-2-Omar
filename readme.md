@@ -39,12 +39,11 @@ Par groupe, vous devrez trouver des sources de veille tech et les inclure dans c
 
 ## Groupes
 
-- Groupe 1 : Tomy, Alexandre, Antony, Geoffroy, Mathieu
-- Groupe 2 : Alexis, Vincent, Kix, amaury, omar
-- groupe 3 : Maxime, Sofian, Mathis
+- Groupe 1 : Tomy, Antony, Geoffroy, Mathieu
+- Groupe 2 : amaury, omar, Panegna, Tom
+- groupe 3 : Maxime, Sofian, Mathis, Hugo
 - Groupe 4 : Adrien, Timéo, Martin, Yael
-- Groupe 5 : Maxence, Pierre, Evhan, Loris, Yannick
-- Groupe 6 : Eugène, Panegna, Tom
+- Groupe 5 : Maxence, Evhan, Loris, Yannick
   
 
 ## Liste des sujets
