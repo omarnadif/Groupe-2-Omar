@@ -1,5 +1,5 @@
 # Laravel
-![Alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Flaravel%2Flogo-laravel-1024.png&f=1&nofb=1&ipt=842ffa102488d6321882c7bbb95611f9fe2989d45caf84bb5f8c2a54d3e3fcf0&ipo=images)
+<img src="[https://spring.io/img/spring.svg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Flaravel%2Flogo-laravel-1024.png&f=1&nofb=1&ipt=842ffa102488d6321882c7bbb95611f9fe2989d45caf84bb5f8c2a54d3e3fcf0&ipo=images)" alt="Laravel Logo" width="300" height="100">
 
 ## Description
 Laravel est un framework open-source de développement web basé sur le langage de programmation PHP, reconnu pour sa syntaxe élégante et expressive ainsi que pour ses fonctionnalités avancées qui simplifient le processus de création d'applications web modernes et performantes, incluant une gestion simplifiée de la base de données, un système de routage efficace, un moteur de templating Blade, et une architecture MVC (Modèle-Vue-Contrôleur) facilitant la structuration du code.
