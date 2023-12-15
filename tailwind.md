@@ -13,4 +13,8 @@ Tailwind CSS est un framework CSS open source. La fonctionnalité principale de 
 
 Nom  | Type  | Langue | Lien | Description | Tags | Note
 ------|-------|--------|------|-------------|------|------
-Tailwind | Twitter | Anglais | [lien](https://twitter.com/angular) | Le compte officiel d'Angular sur Twitter mettant régulièrement des informations vérifiées sur le meilleur framework JS. |#Angular #Update #Infos #Twitter | 4/5
+|TailwindCSS|Documentation|Anglais|https://tailwindcss.com/|Documentation officiel de TailwindCSS|TailwindCSS, CSS|5/5
+|Instagram TailwindCss|Instagram|Anglais|https://www.instagram.com/tailwindcss/|Partage les dernières versions sorties|TailwindCss|2/5
+|Alsacreations|Article|Francais|https://www.alsacreations.com/tuto/lire/1812-Tailwind-CSS-decouverte-du-framework-original-et-innovant.html|Découverte de la technologie|TailwindCSS|3/5
+|Reddit tailwindCss|Reddit|Anglais|https://www.reddit.com/r/tailwindcss/|Subreddit sur la technologie Subreddit|TailwindCss|4/5
+|Ibracilinks|Documentation|Français|https://ibracilinks.com/blog/quest-ce-que-le-tailwind-css|Description de Tailwind et Avantage du Framework|TailwindCSS, Framework, Css|4/5
