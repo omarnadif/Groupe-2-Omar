@@ -13,6 +13,9 @@ Nom | Type | Langue | Lien | Description | Tags | Note
  --- | --- | --- | --- | --- | --- | --- 
 Microsoft|Site Web|Anglais|[:link:](https://learn.microsoft.com/en-us/dotnet/csharp/)|Documentation C#|Documentation - C#|3/5
 | OpenClassroom|Site Web|Français|[:link:](https://openclassrooms.com/fr/courses/7973891-apprenez-a-programmer-en-c)|Tutoriel C#|Tutoriel - C#|3/5
-| W3School|Site Web|Anglais|[:link:](https://www.w3schools.com/cs/index.php)|Tutoriels et documentation C#|Tutoriel- Documentation - C#|3/5
+| W3School|Site Web|Anglais|[:link:](https://www.w3schools.com/cs/index.php)|Tutoriel et documentation C#|Tutoriel- Documentation - C#|3/5
+| CodeAcademy|Site Web|Anglais|[:link:](https://www.codecademy.com/learn/learn-c-sharp)|Tutoriel C#|Tutoriel - C#|3/5
+
+
 
 
