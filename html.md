@@ -10,4 +10,5 @@ _**Source :** [lien wikipédia](https://fr.wikipedia.org/wiki/Hypertext_Markup_L
 ## Veille Techno
 Nom  | Type  | Langue | Lien | Description | Tags | Note
 ------|-------|--------|------|-------------|------|------
-Html | Article | Français | [lien de l'article](https://www.clever-age.com/veille-html-et-css-de-rentree/) | Le site Clever Age, propose une veille technologique depuis 2017, qu'il actualise chaque année. |#Html #Technologie Front #Rentrée | 4/5
+Veille HTML et CSS de rentré | Article | Français | [lien de l'article](https://www.clever-age.com/veille-html-et-css-de-rentree/) | Le site Clever Age, propose une veille technologique depuis 2017, qu'il actualise chaque année. |#Html #Front #Rentrée | 4/5
+Explication HTML | Site | Français | [lien de l'article](https://developer.mozilla.org/fr/docs/Web/HTML) | Le site MDN Web Docs permet de connaître les principales notions du language html. |#Html #Front #Cours | 5/5
