@@ -1,1 +1,5 @@
-
+| Nom                    | Type           | Langue  | Lien                                                               | Description                                           | Tags                 | Note/5 |
+| ---------------------- | -------------- | ------- | ------------------------------------------------------------------ | ----------------------------------------------------- | -------------------- | ------ |
+| Blog SQL Server        | Blog           | Anglais | [Blog SQL Server](https://techcommunity.microsoft.com/t5/sql-server/bg-p/SQLServer) | Blog officiel de Microsoft sur SQL Server.            | SQL Server, Base de données | 5      |
+| Documentation SQL Server | Documentation | Anglais | [Documentation SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/) | Documentation officielle de Microsoft pour SQL Server. | SQL Server, Base de données | 5      |
+| GitHub SQL Server      | GitHub         | Anglais | [GitHub SQL Server](https://github.com/microsoft/sql-server-samples) | Répertoire GitHub officiel avec des exemples pour SQL Server | SQL Server, Base de données | 5      |
