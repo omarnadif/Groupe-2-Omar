@@ -1,6 +1,6 @@
 # Fortran
 
-![logo apache](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3AApache_Software_Foundation_Logo_%25282016%2529.svg&psig=AOvVaw3t_TdipsQPKTR7Hbm-fwe3&ust=1702732904490000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD03cHEkYMDFQAAAAAdAAAAABAD)
+![logoFortran](https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg)
 
 # Description
 
@@ -10,3 +10,7 @@ Fortran (mathematical FORmula TRANslating system) est un langage de programmatio
 
 |Nom|type|Langue|Lien|Description|Tags|Note|
 |---|---|---|---|---|---|---|
+|Fortran|Site Officiel|Français|https://fortran-lang.org/fr/|Informations générale et documentation officielle|Infos|4 :star:|
+|Wikipedia|Encyclopédie Libre|Français|https://fr.wikipedia.org/wiki/Fortran|Description Générale de Fortran|Infos|4 :star:|
+|Developpez.com|Forum|Français|https://fortran.developpez.com/|Tutoriels sur Fortran|Tutos|3 :star:|
+|Univ. Bordeaux|Site universitaire|Français|https://www.math.u-bordeaux.fr/~lmieusse/PAGE_WEB/ENSEIGNEMENT/cours_f90.pdf|Tutoriel en pdf|Tuto| 4 :star:|
