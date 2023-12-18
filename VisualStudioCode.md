@@ -1,16 +1,16 @@
-# Cordova
+# VisualStudioCode
 
-![CORDOVA](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftalks.freelancerepublik.com%2Fcordova-vs-capacitor-meilleure-techno-mobile-hybride%2F&psig=AOvVaw3K3_FS6Ilo_1TDvmk0-Dvg&ust=1702991157921000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDV78qGmYMDFQAAAAAdAAAAABAD "Image de Cordova")
+![VSC](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanonical.com%2Fblog%2Fvisual-studio-code-launches-as-a-snap&psig=AOvVaw02y4C7YXqONtlzA8cXEwSt&ust=1702735048726000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiI5sbMkYMDFQAAAAAdAAAAABAD "Image de VSC")
 
 
 ## Description
 
-[:memo:] Apache Cordova est un framework open source qui permet de développer des applications mobiles multiplateformes en utilisant des technologies web standard telles que HTML, CSS et JavaScript. Il permet aux développeurs de créer des applications mobiles natives en utilisant des compétences web existantes, ce qui simplifie le processus de développement et permet de partager du code entre différentes plates-formes
+Visual Studio Code (VSCode) est un éditeur de code source développé par Microsoft. Il est gratuit, open source et disponible pour Windows, macOS et Linux. Visual Studio Code a gagné en popularité en raison de sa légèreté, de sa polyvalence et de ses nombreuses fonctionnalités utiles pour les développeurs
 
 ## Sources
 
 Nom | Type | Langue | Lien | Description | Tags | Note
  --- | --- | --- | --- | --- | --- | --- 
-Apache cordova|Site Web|Anglais|[:link:](https://cordova.apache.org/)|Présentation|Site web de Apache cordova|⭐⭐⭐⭐⭐
-| WIKIPEDIA | Site Web | Français | [:link:](https://fr.wikipedia.org/wiki/Apache_Cordova) | Une ressource complète, des astuces et de la documentation | Tutoriels, Astuces, Démos | ⭐⭐⭐ |
+VSC|Site Web|Anglais|[:link:](https://code.visualstudio.com)|Présentation|Site web de JWT|⭐⭐⭐⭐⭐
+| WIKIPEDIA | Site Web | Français | [:link:](https://en.wikipedia.org/wiki/Visual_Studio_Code) | Une ressource complète, des astuces et de la documentation | Tutoriels, Astuces, Démos | ⭐⭐⭐⭐ |
 
