@@ -11,9 +11,13 @@ web et d'applications web, tout en mettant l'accent sur la stabilité, la mainte
 
 ## Sources
 
-| Nom de la Source       | Type     | Langue  | Lien                                   | Description Courte                                             | Tags                         | Note (/5) |
-|------------------------|----------|---------|----------------------------------------|----------------------------------------------------------------|------------------------------|-----------|
-| Hapi GitHub Repository | GitHub   | Anglais | [lien](https://github.com/hapijs/hapi) | Code source, issues et discussions sur GitHub pour Hapi        | Hapi, Node.js, Open Source   | 5/5       |
-| Hapi Documentation     | Site Web | Anglais | [lien](https://hapi.dev/)              | Documentation officielle de Hapi                               | Hapi, Node.js, Documentation | 5/5       |
-| Hapi Blog              | Blog     | Anglais | [lien](https://blog.hapi.dev/)         | Articles techniques, mises à jour et annonces sur le blog Hapi | Hapi, Node.js, Blog          | 4/5       |
-| Hapi Twitter           | Twitter  | Anglais | [lien](https://twitter.com/hapijs)     | Annonces, mises à jour et discussions sur Twitter              | Hapi, Node.js, Social Media  | 3/5       |               | Podcast couvrant les actualités et les histoires de la communauté Kubernetes | Kubernetes, Podcast, Community        | 4/5       |
+| Nom de la Source                 | Type       | Langue   | Lien                                                    | Description Courte                                             | Tags                           | Note (/5) |
+|----------------------------------|------------|----------|---------------------------------------------------------|----------------------------------------------------------------|--------------------------------|-----------|
+| Hapi GitHub Repository           | GitHub     | Anglais  | [lien](https://github.com/hapijs/hapi)                  | Code source, issues et discussions sur GitHub pour Hapi        | Hapi, Node.js, Open Source     | 5/5       |
+| Hapi Documentation               | Site Web   | Anglais  | [lien](https://hapi.dev/)                               | Documentation officielle de Hapi                               | Hapi, Node.js, Documentation   | 5/5       |
+| Hapi Blog                        | Blog       | Anglais  | [lien](https://blog.hapi.dev/)                          | Articles techniques, mises à jour et annonces sur le blog Hapi | Hapi, Node.js, Blog            | 4/5       |
+| Hapi Twitter                     | Twitter    | Anglais  | [lien](https://twitter.com/hapijs)                      | Annonces, mises à jour et discussions sur Twitter              | Hapi, Node.js, Social Media    | 3/5       |               
+| Hapi Plugins on GitHub           | GitHub     | Anglais  | [lien](https://github.com/hapijs?q=hapi-plugin)         | Liste de plugins Hapi disponibles sur GitHub                   | Hapi, Node.js, Plugins         | 4/5       |
+| Hapi Tutorials on Medium         | Articles   | Anglais  | [lien](https://medium.com/tag/hapijs)                   | Articles et tutoriels sur Hapi sur la plateforme Medium        | Hapi, Node.js, Tutorials       | 4/5       |
+| Hapi Meetup Events               | Événements | Anglais  | [lien](https://www.meetup.com/topics/hapijs/)           | Événements Meetup liés à Hapi dans diverses communautés        | Hapi, Node.js, Meetup          | 3/5       |
+| Hapi Questions on Stack Overflow | Forum      | Anglais  | [lien](https://stackoverflow.com/questions/tagged/hapi) | Questions et réponses sur Stack Overflow liées à Hapi          | Hapi, Node.js, Community       | 4/5       |
