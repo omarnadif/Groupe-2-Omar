@@ -10,3 +10,4 @@ Electron est un environnement permettant de développer des applications multi-p
 |---------|----------|------------|----------|-----------------|----------|----------|
 |Electron|Article blog|FR|https://www.electronjs.org/blog|nouvelle mise à jour d'electron (28) |#news #maj| 5/5|
 |brainhub|article|EN|https://brainhub.eu/library/electron-app-examples|Examples d'app avec Electron|#top #apps|2/5|
+|SolftFluent |article | FR |https://www.softfluent.fr/blog/creer-application-multiplateforme-avec-electron/ | présentation electron | presentation |4/5|
