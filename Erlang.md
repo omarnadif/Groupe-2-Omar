@@ -11,3 +11,4 @@ _**Source :** [lien wikipédia](https://fr.wikipedia.org/wiki/Erlang_(langage))
 Nom  | Type  | Langue | Lien | Description | Tags | Note
 ------|-------|--------|------|-------------|------|------
 Présentation d'Erlang | Site | Français | [lien de l'article](https://www.50a.fr/0/erlang) | Le site présente les services d'une agence de communication numérique et donne des informations sur le langage de programmation Erlang. |#Erlang | 5/5
+|Programmez|Article|FR|https://www.programmez.com/magazine/article/erlang-un-langage-decouvrir | découverte de erlang| #language #presentationj |3/5|
