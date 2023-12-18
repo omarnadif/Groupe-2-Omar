@@ -1,0 +1,4 @@
+| Nom                      | Type            | Langue | Lien                                                      | Description                                                      | Tags                          | Note/5 |
+| ------------------------ | --------------- | ------ | --------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------- | ------ |
+| Site officiel Stimulus            | Site          | Anglais| [Site Stimulus](stimulus.hotwired.dev)      | Site GitHub officiel de Stimulus.                                | Stimulus| 5      |
+| Github Stimulus    | Github    | Anglais| [Github](https://github.com/hotwired/stimulus)      | Github Stimulus| Github Stimulus | 5      |
