@@ -13,3 +13,4 @@ Jira est un système de suivi de bugs, de gestion des incidents et de gestion de
 |Wikipedia|Encyclopédie libre|Français|https://fr.wikipedia.org/wiki/Jira|Description générale de Jira|Infos|4 :star: |
 |Blog du modérateur|Blog|Français|https://www.blogdumoderateur.com/tools/jira/|Description générale de Jira|Infos|3 :star: |
 |twybee|Site d'un consultant|Français|https://www.twybee.com/blog/jira-software-debutant-guide-complet/|Tutoriel de démarrage avec Jira|Tuto|4 :star:|
+|Reddit Jira|Page Reddit|Anglais|https://www.reddit.com/r/delphi/|Page Reddit de Jira|Tuto|4.5 :star:|
