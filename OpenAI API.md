@@ -1,4 +1,3 @@
-
 # OpenAI API
 
 ![OpenAI API](https://www.driftingruby.com/episodes/openai-api-integration/download_image.png "OpenAI API")
