@@ -8,5 +8,6 @@ F# est un langage de programmation fonctionnel, impératif et orienté objet pou
 
 |Nom|type|Langue|Lien|Description|Tags|Note|
 |---|---|---|---|---|---|---|
-|F# Blog|Blog|Anglais|[lien](https://foundation.fsharp.org/announcements)|Le blog oficiel de F#|MAJ, News|3|
-|F# reddit|Reddit|Anglais|[lien](https://www.reddit.com/r/fsharp/)|Le reddit de F#|News, discussion, aide|4|
+|F# Blog|Blog|Anglais|[lien](https://foundation.fsharp.org/announcements)|Le blog oficiel de F#|MAJ, News|3 :star:|
+|Wikipedia|Encyclopédie libre|Français|[lien](https://fr.wikipedia.org/wiki/F_Sharp)|Infos générales sur F#|Infos|4 :star:|
+|F# reddit|Reddit|Anglais|[lien](https://www.reddit.com/r/fsharp/)|Le reddit de F#|News, discussion, aide|4 :star:|
