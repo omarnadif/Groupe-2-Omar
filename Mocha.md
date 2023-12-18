@@ -16,4 +16,4 @@ Nom  | Type  | Langue | Lien | Description | Tags | Note
 ------|-------|--------|------|-------------|------|------
 |DigitalOcean|Documentation|Français|https://www.digitalocean.com/community/tutorials/how-to-test-a-node-js-module-with-mocha-and-assert-fr| Documentation sur le fonctionnement du test unitaire avec Mocha et Assert| test unitaire, Mocha| /5|
 
-|Javascript.info|Tutoriel|Français|https://fr.javascript.info/testing-mocha | Description des test automatisé avec Mocha| Mocha, test| 3/5|
+|Javascript.info|Tutoriel|Français|https://fr.javascript.info/testing-mocha | Description des test automatisé avec Mocha| Mocha, test| 3/5|;
