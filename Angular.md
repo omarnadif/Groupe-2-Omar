@@ -13,3 +13,4 @@ Angular Blog | Blog d'Angular | Anglais | https://blog.angular.io/ | Actualités
 Netanel Basal | Blog | Anglais | https://netbasal.com/ | Guides et actualités d'Angular | angular / node.js | 4.5
 Blog Ninja Squad | Blog | Anglais | https://blog.ninja-squad.com/ | Actualités d'Angular | angular | 5
 Twitter Angular | Compte Twitter | Anglais | https://twitter.com/angular | Compte Twitter de Angular | angular | 4
+Reddit Angular | Page Reddit | Anglais | https://www.reddit.com/r/angular/ | Page Reddit de Angular | angular | 4.5
