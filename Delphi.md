@@ -13,3 +13,4 @@ Delphi est un EDI propriétaire fonctionnant sous Windows créé en 1995 par Bor
 |Wikipedia|Encyclopédie Libre|Français|https://fr.wikipedia.org/wiki/Delphi_(langage)|Informations générales|Infos|4 :star:|
 |Developpez|Forum|Français|https://delphi.developpez.com/|Tutoriels|Tutos| 4 :star:|
 |ENI|Livre|Français|https://www.editions-eni.fr/livre/delphi-10-3-programmation-orientee-objet-en-environnement-windows-9782409024665|Apprentissage|Tutos|5 :star:|
+|Reddit Delphie|Page Reddit|Anglais|https://www.reddit.com/r/delphi/|Page Reddit de Delphi|Actualités et discussions concernant Delphi|4.5 :star:|
