@@ -11,4 +11,6 @@ Nom | Type | Langue | Lien | Description | Tags | Note
 Laravel Blog | Blog de Laravel | Anglais | https://blog.laravel.com/ | Actualités et astuces de l'équipe Laravel | laravel | 5 
 Twitter Laravel | Compte Twitter | Anglais | https://twitter.com/laravelphp | Actualités de Laravel | laravel | 4
 Reddit Laravel | Page Reddit | Anglais | https://www.reddit.com/r/laravel/ | Actualités et discussions concernant Laravel | laravel | 5
+Kinsta Laravel | Blog | Français | https://kinsta.com/fr/sujets/laravel/ | Tutoriels et actualités concernant Laravel | laravel | 4.5
+Laravel France | Blog | Français | https://laravel-france.com/ | Tutoriels et actualités concernant Laravel | laravel | 5
 
