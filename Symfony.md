@@ -30,3 +30,10 @@ Symfony bénéficie d'une communauté active et engagée, composée de développ
 
 Conclusion
 En résumé, Symfony est un framework PHP moderne, stable et évolutif, idéal pour le développement d'applications web complexes. Que vous travailliez sur de petits projets ou des applications d'envergure, Symfony offre les outils nécessaires pour concevoir des solutions web performantes, maintenables et sécurisées.
+
+|Nom|type|Langue|Lien|Description|Tags|Note|
+|---|---|---|---|---|---|---|
+|Symfony|Site officiel|Français|https://symfony.com/|Site officiel|Infos|5 :star:|
+|Wikipedia|Encyclopedie libre|Français|https://fr.wikipedia.org/wiki/Symfony|Informations générales|Infos|4 :star:|
+|Symfony Casts|Tutoriels officiels|Français|https://symfonycasts.com/|Tutoriels|Tutos|5 :star:|
+|LinkedIn|LinkedIn officiel Symfony|Français|https://www.linkedin.com/company/symfony-sas/?originalSubdomain=fr|Réseau social|News| 3 :star:|
