@@ -18,4 +18,5 @@ Nom  | Type  | Langue | Lien | Description | Tags | Note
 |Firebase compte twitter officiel | Twitter| Anglais | https://twitter.com/FirebaseRelease | Compte twitter officiel de Firebase, actualité, tips...| firebase, développement|5/5|
 | Firebase compte youtube| Youtube| Anglais | https://www.youtube.com/c/firebase | Vidéo sur l'actualité de firebase| firebase| 5/5  |
 | Discord de Firebase| Discord| Anglais | https://discord.com/invite/BN2cgc3| Serveur Discord autour de firebase| firebase, développement | 2/5  |
+|Firebase reddit|Reddit|Anglais|[lien](https://www.reddit.com/r/Firebase/)|Reddit|firebase, reddit, news|4/5|
 

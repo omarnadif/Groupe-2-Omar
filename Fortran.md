@@ -14,3 +14,4 @@ Fortran (mathematical FORmula TRANslating system) est un langage de programmatio
 |Wikipedia|Encyclopédie Libre|Français|https://fr.wikipedia.org/wiki/Fortran|Description Générale de Fortran|Infos|4 :star:|
 |Developpez.com|Forum|Français|https://fortran.developpez.com/|Tutoriels sur Fortran|Tutos|3 :star:|
 |Univ. Bordeaux|Site universitaire|Français|https://www.math.u-bordeaux.fr/~lmieusse/PAGE_WEB/ENSEIGNEMENT/cours_f90.pdf|Tutoriel en pdf|Tuto| 4 :star:|
+|Reddit Fortran|Page Reddit|Anglais|https://www.reddit.com/r/fortran/|Page Reddit de Fortran|fortran| 4.5 :star:|
