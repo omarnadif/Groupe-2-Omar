@@ -11,3 +11,4 @@ Nom | Type | Langue | Lien | Description | Tags | Note
 SpringCentral | Twitter de Spring | Anglais | https://twitter.com/springcentral | Actualités et astuces de l'équipe Spring | spring | 4 
 Spring Blog | Blog de Spring | Anglais | https://spring.io/blog/ | Guides et actualités d'Angular | spring | 5
 InfoQ Spring | Site d'informations | Anglais | https://www.infoq.com/spring/ | Actualités de Spring | spring | 4.5
+Twitter Spring | Compte Twitter | Anglais | https://twitter.com/springframework | Page Twitter de Spring | spring | 4
