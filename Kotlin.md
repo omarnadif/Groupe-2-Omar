@@ -11,3 +11,4 @@ Kotlin est un langage de programmation orienté objet et fonctionnel, avec un ty
 |Kotlin Blog|Blog|Anglais|[lien](https://blog.jetbrains.com/kotlin/)|Le blog oficiel de kotlin|MAJ, News|3|
 |Kotlin reddit|Reddit|Anglais|[lien](https://www.reddit.com/r/Kotlin/)|Le reddit de kotlin|News, discussion, aide|4|
 |Twitter(X) de Kotlin|Twiiter|Anglais|[lien](https://twitter.com/kotlin)|Le twitter officiel de kotlin|News|4|
+|Le monde informatique| article|FR| https://www.lemondeinformatique.fr/actualites/lire-kotlin-continue-de-grimper-dans-l-indice-de-tiobe-92122.html | parle de la croissance de kotlin| News Stonk| 4/5|
